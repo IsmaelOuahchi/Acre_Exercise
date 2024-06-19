@@ -21,7 +21,7 @@ This program automates the process of filling out the mortgage affordability cal
 
 3. **Update `main.py`**:
     - Open `main.py`.
-    - Update the `chrome_driver_path` variable (line 14) with the path to your downloaded ChromeDriver executable.
+    - Update the `chrome_driver_path` variable (line 12) with the path to your downloaded ChromeDriver executable.
 
 ## Files
 
