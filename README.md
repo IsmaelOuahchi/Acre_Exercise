@@ -32,7 +32,8 @@ This program automates the process of filling out the mortgage affordability cal
 ## Running the Program
 
 1. **Prepare the Applicant Data**:
-    - Ensure your `applicants_data.json` file is properly formatted and contains all necessary applicant information.
+- The `applicants_data.json` file is pre-populated with six applicant data entries that cover various scenarios. These scenarios are designed to test different aspects of the application process.
+- You can add new applicant data if needed, but ensure that all necessary information is included for each new entry to maintain consistency and functionality.
 
 2. **Execute the Script**:
     - Run the `main.py` script:
