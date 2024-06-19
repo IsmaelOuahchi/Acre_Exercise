@@ -38,7 +38,7 @@ This program automates the process of filling out the mortgage affordability cal
 2. **Execute the Script**:
     - Run the `main.py` script:
     ```bash
-    python main.py
+    python3 main.py
     ```
 
 3. **View Results**:
