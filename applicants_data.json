@@ -1,0 +1,463 @@
+[
+    {
+        "application_id": 1,
+        "mortgage_details": {
+            "property_price": 100000,
+            "postcode": "W2 2RD",
+            "no_applicants": "Two",
+            "no_adults_resident": 3,
+            "no_financial_dependants": 2,
+            "council_tax_reduction": "Yes",
+            "type_of_loan": "New",
+            "product": "FJN27 5.10% Fixed to 30.11.26",
+            "total_morgage_amount": 100000,
+            "term_years": 10,
+            "term_months": 8,
+            "applicant1": {
+                "day_of_birth": 23,
+                "month_of_birth": 11,
+                "year_of_birth": 1990,
+                "gender": "Female"
+            },
+            "job_applicant1": {
+                "employment_type": "Employed",
+                "annual_income": 100000,
+                "annual_bonus": 10000,
+                "Total_overtime_shift_commission": 1000,
+                "planned_retirement": 60,
+                "other_source_income_type": "Private pension",
+                "other_source_income_amount": 2000
+            },
+            "applicant2": {
+                "day_of_birth": 15,
+                "month_of_birth": 9,
+                "year_of_birth": 1980,
+                "gender": "Male"
+            },
+            "job_applicant2": {
+                "employment_type": "Sole trader/Partnership/Sub-Contracting",
+                "annual_net_profit": 100000,
+                "planned_retirement": 60,
+                "other_source_income_type": "Rental income",
+                "other_source_income_amount": 2000
+            },
+            "expenditure_details": {
+                "applicant1_expenditure": {
+                    "school_fees": 1000,
+                    "nursery_childminding_fees": 1000,
+                    "life_insurance": 1000,
+                    "building/contents_insurance": 1000,
+                    "ground_rent/service_charge": 1000,
+                    "unsecured_loan": 1000,
+                    "personal_hp_agreement": 1000,
+                    "credit_agreements": 1000,
+                    "secured_loans": 300,
+                    "other_mortgage_payments": 400,
+                    "continuing_child_maintenance": 100,
+                    "student_loans": 100,
+                    "monthly_pension_contributions": 300,
+                    "total_credit_card_balances": 100
+                },
+                "applicant2_expenditure": {
+                    "school_fees": 1000,
+                    "nursery_childminding_fees": 1000,
+                    "life_insurance": 1000,
+                    "building/contents_insurance": 1000,
+                    "ground_rent/service_charge": 1000,
+                    "unsecured_loan": 1000,
+                    "personal_hp_agreement": 1000,
+                    "credit_agreements": 1000,
+                    "secured_loans": 300,
+                    "other_mortgage_payments": 400,
+                    "continuing_child_maintenance": 100,
+                    "student_loans": 100,
+                    "monthly_pension_contributions": 300,
+                    "total_credit_card_balances": 100
+                },
+                "joint": {
+                    "school_fees": 1000,
+                    "nursery_childminding_fees": 1000,
+                    "life_insurance": 1000,
+                    "building/contents_insurance": 1000,
+                    "ground_rent/service_charge": 1000,
+                    "unsecured_loan": 1000,
+                    "personal_hp_agreement": 1000,
+                    "credit_agreements": 1000,
+                    "secured_loans": 300,
+                    "other_mortgage_payments": 400,
+                    "continuing_child_maintenance": 100,
+                    "student_loans": 100,
+                    "monthly_pension_contributions": 300,
+                    "total_credit_card_balances": 100
+                }
+            }
+        }
+    },
+
+
+
+
+
+    {
+        "application_id": 2,
+        "mortgage_details": {
+            "property_price": 200000,
+            "postcode": "E1 6AN",
+            "no_applicants": "Two",
+            "no_adults_resident": 4,
+            "no_financial_dependants": 1,
+            "council_tax_reduction": "No",
+            "type_of_loan": "New",
+            "product": "FJN27 5.10% Fixed to 30.11.26",
+            "total_morgage_amount": 180000,
+            "term_years": 15,
+            "term_months": 6,
+            "applicant1": {
+                "day_of_birth": 5,
+                "month_of_birth": 4,
+                "year_of_birth": 1985,
+                "gender": "Male"
+            },
+            "job_applicant1": {
+                "employment_type": "LLP - PAYE registered",
+                "annual_income": 110000,
+                "annual_bonus": 7000,
+                "Total_overtime_shift_commission": 2000,
+                "planned_retirement": 65,
+                "other_source_income_type": "Private pension",
+                "other_source_income_amount": 9000
+            },
+            "applicant2": {
+                "day_of_birth": 20,
+                "month_of_birth": 2,
+                "year_of_birth": 1988,
+                "gender": "Female"
+            },
+            "job_applicant2": {
+                "employment_type": "Employed",
+                "annual_income": 100000,
+                "annual_bonus": 8000,
+                "Total_overtime_shift_commission": 2000,
+                "planned_retirement": 65,
+                "other_source_income_type": "Rental income",
+                "other_source_income_amount": 10500
+            },
+            "expenditure_details": {
+                "applicant1_expenditure": {
+                    "life_insurance": 500,
+                    "ground_rent/service_charge": 400,
+                    "other_mortgage_payments": 300,
+                    "student_loans": 150,
+                    "monthly_pension_contributions": 350
+                },
+                "applicant2_expenditure": {
+                    "school_fees": 800,
+                    "building/contents_insurance": 600,
+                    "personal_hp_agreement": 1500,
+                    "credit_agreements": 800,
+                    "other_mortgage_payments": 300,
+                    "continuing_child_maintenance": 200
+                },
+                "joint": {
+                    "other_mortgage_payments": 600,
+                    "continuing_child_maintenance": 400,
+                    "total_credit_card_balances": 400
+                }
+            }
+        }
+    },
+
+
+
+
+
+    {
+        "application_id": 3,
+        "mortgage_details": {
+            "property_price": 250000,
+            "postcode": "NW1 3FG",
+            "no_applicants": "One",
+            "no_adults_resident": 2,
+            "no_financial_dependants": 0,
+            "council_tax_reduction": "No",
+            "type_of_loan": "Remortgage",
+            "product": "FJN32 4.99% Fixed to 30.11.26",
+            "total_morgage_amount": 200000,
+            "term_years": 20,
+            "term_months": 0,
+            "applicant1": {
+                "day_of_birth": 10,
+                "month_of_birth": 12,
+                "year_of_birth": 1975,
+                "gender": "Female"
+            },
+            "job_applicant1": {
+                "employment_type": "Employed",
+                "annual_income": 120000,
+                "annual_bonus": 15000,
+                "Total_overtime_shift_commission": 5000,
+                "planned_retirement": 67,
+                "anticipated_annual_retirement_income": 50000,
+                "other_source_income_type": "Dividend income",
+                "other_source_income_amount": 5000
+            },
+
+
+            "expenditure_details": {
+                "applicant1_expenditure": {
+                    "school_fees": 900,
+                    "nursery_childminding_fees": 800,
+                    "life_insurance": 600,
+                    "building/contents_insurance": 700,
+                    "ground_rent/service_charge": 500,
+                    "unsecured_loan": 1500,
+                    "personal_hp_agreement": 1200,
+                    "credit_agreements": 900,
+                    "secured_loans": 400,
+                    "other_mortgage_payments": 300,
+                    "continuing_child_maintenance": 250,
+                    "student_loans": 200,
+                    "monthly_pension_contributions": 400,
+                    "total_credit_card_balances": 300
+                }
+            }
+        }
+    },
+
+
+
+
+    {
+        "application_id": 4,
+        "mortgage_details": {
+            "property_price": 300000,
+            "postcode": "SE1 9GF",
+            "no_applicants": "One",
+            "no_adults_resident": 1,
+            "no_financial_dependants": 0,
+            "council_tax_reduction": "No",
+            "type_of_loan": "New",
+            "product": "FJN57 6.09% Fixed to 30.11.26",
+            "total_morgage_amount": 270000,
+            "term_years": 25,
+            "term_months": 0,
+            "applicant1": {
+                "day_of_birth": 30,
+                "month_of_birth": 6,
+                "year_of_birth": 1980,
+                "gender": "Male"
+            },
+            "job_applicant1": {
+                "employment_type": "Employed",
+                "annual_income": 110000,
+                "annual_bonus": 7000,
+                "Total_overtime_shift_commission": 3000,
+                "planned_retirement": 65,
+                "anticipated_annual_retirement_income": 50000,
+                "other_source_income_type": "Rental income",
+                "other_source_income_amount": 3500
+            },
+            "expenditure_details": {
+                "applicant1_expenditure": {
+                    "school_fees": 0,
+                    "nursery_childminding_fees": 0,
+                    "life_insurance": 700,
+                    "building/contents_insurance": 800,
+                    "ground_rent/service_charge": 600,
+                    "unsecured_loan": 2500,
+                    "personal_hp_agreement": 2000,
+                    "credit_agreements": 1000,
+                    "secured_loans": 0,
+                    "other_mortgage_payments": 0,
+                    "continuing_child_maintenance": 0,
+                    "student_loans": 0,
+                    "monthly_pension_contributions": 500,
+                    "total_credit_card_balances": 500
+                }
+
+            }
+        }
+    },
+    {
+        "application_id": 5,
+        "mortgage_details": {
+            "property_price": 350000,
+            "postcode": "SW1A 2AA",
+            "no_applicants": "Two",
+            "no_adults_resident": 2,
+            "no_financial_dependants": 1,
+            "council_tax_reduction": "Yes",
+            "type_of_loan": "Remortgage without Additional Borrowing",
+            "product": "FJN26 4.91% Fixed to 30.11.26",
+            "total_morgage_amount": 320000,
+            "term_years": 30,
+            "term_months": 0,
+            "applicant1": {
+                "day_of_birth": 25,
+                "month_of_birth": 5,
+                "year_of_birth": 1992,
+                "gender": "Female"
+            },
+            "job_applicant1": {
+                "employment_type": "Retired",
+                "other_source_income_type": "Rental income",
+                "other_source_income_amount": 4000
+            },
+            "applicant2": {
+                "day_of_birth": 13,
+                "month_of_birth": 11,
+                "year_of_birth": 1990,
+                "gender": "Male"
+            },
+            "job_applicant2": {
+                "employment_type": "Employed",
+                "annual_income": 105000,
+                "annual_bonus": 6000,
+                "Total_overtime_shift_commission": 4000,
+                "planned_retirement": 65,
+                "other_source_income_type": "Rental income",
+                "other_source_income_amount": 5000
+            },
+            "expenditure_details": {
+                "applicant1_expenditure": {
+                    "school_fees": 1200,
+                    "nursery_childminding_fees": 800,
+                    "life_insurance": 600,
+                    "building/contents_insurance": 700,
+                    "ground_rent/service_charge": 500,
+                    "unsecured_loan": 2000,
+                    "personal_hp_agreement": 1500,
+                    "credit_agreements": 900,
+                    "secured_loans": 400,
+                    "other_mortgage_payments": 300,
+                    "continuing_child_maintenance": 250,
+                    "student_loans": 200,
+                    "monthly_pension_contributions": 450,
+                    "total_credit_card_balances": 350
+                },
+                "applicant2_expenditure": {
+                    "school_fees": 1200,
+                    "nursery_childminding_fees": 800,
+                    "life_insurance": 600,
+                    "building/contents_insurance": 700,
+                    "ground_rent/service_charge": 500,
+                    "unsecured_loan": 2000,
+                    "personal_hp_agreement": 1500,
+                    "credit_agreements": 900,
+                    "secured_loans": 400,
+                    "other_mortgage_payments": 300,
+                    "continuing_child_maintenance": 250,
+                    "student_loans": 200,
+                    "monthly_pension_contributions": 450,
+                    "total_credit_card_balances": 350
+                },
+                "joint": {
+                    "school_fees": 2400,
+                    "nursery_childminding_fees": 1600,
+                    "life_insurance": 1200,
+                    "building/contents_insurance": 1400,
+                    "ground_rent/service_charge": 1000,
+                    "unsecured_loan": 4000,
+                    "personal_hp_agreement": 3000,
+                    "credit_agreements": 1800,
+                    "secured_loans": 800,
+                    "other_mortgage_payments": 600,
+                    "continuing_child_maintenance": 500,
+                    "student_loans": 400,
+                    "monthly_pension_contributions": 900,
+                    "total_credit_card_balances": 700
+                }
+            }
+        }
+    },
+    {
+        "application_id": 6,
+        "mortgage_details": {
+            "property_price": 400000,
+            "postcode": "W1D 3QF",
+            "no_applicants": "One",
+            "no_adults_resident": 3,
+            "no_financial_dependants": 2,
+            "council_tax_reduction": "No",
+            "type_of_loan": "New",
+            "product": "FJO20 4.80% Fixed to 30.11.29",
+            "total_morgage_amount": 350000,
+            "term_years": 20,
+            "term_months": 0,
+            "applicant1": {
+                "day_of_birth": 7,
+                "month_of_birth": 8,
+                "year_of_birth": 1983,
+                "gender": "Female"
+            },
+            "job_applicant1": {
+                "employment_type": "Employed",
+                "annual_income": 180000,
+                "annual_bonus": 8000,
+                "Total_overtime_shift_commission": 3500,
+                "planned_retirement": 65,
+                "other_source_income_type": "Rental income",
+                "other_source_income_amount": 4500
+            },
+
+            "expenditure_details": {
+                "applicant1_expenditure": {
+                    "school_fees": 1000,
+                    "life_insurance": 800,
+                    "secured_loans": 500,
+                    "other_mortgage_payments": 300,
+                    "monthly_pension_contributions": 450,
+                    "total_credit_card_balances": 400
+                }
+            }
+        }
+    },
+
+
+    {
+        "application_id": 7,
+        "mortgage_details": {
+            "property_price": 400000,
+            "postcode": "W1D 3QF",
+            "no_applicants": "One",
+            "no_adults_resident": 1,
+            "no_financial_dependants": 0,
+            "council_tax_reduction": "Yes",
+            "type_of_loan": "New",
+            "product": "FJO20 4.80% Fixed to 30.11.29",
+            "total_morgage_amount": 350000,
+            "term_years": 10,
+            "term_months": 10,
+            "applicant1": {
+                "day_of_birth": 7,
+                "month_of_birth": 8,
+                "year_of_birth": 1963,
+                "gender": "Female"
+            },
+            "job_applicant1": {
+                "employment_type": "Director < 20% Shareholder",
+                "annual_income": 190000,
+                "annual_bonus": 8000,
+                "dividend_last_year": 10000,
+                "dividend_previous_year": 9000,
+                "Total_overtime_shift_commission": 3500,
+                "planned_retirement": 71,
+                "anticipated_annual_retirement_income": 10000,
+                "other_source_income_type": "Rental income",
+                "other_source_income_amount": 4500
+            },
+
+            "expenditure_details": {
+                "applicant1_expenditure": {
+                    "school_fees": 1000,
+                    "life_insurance": 800,
+                    "secured_loans": 500,
+                    "other_mortgage_payments": 300,
+                    "monthly_pension_contributions": 450,
+                    "total_credit_card_balances": 400
+                }
+            }
+        }
+    }
+
+]
