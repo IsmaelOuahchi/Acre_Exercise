@@ -1,6 +1,7 @@
 # Mortgage Affordability Calculator Automation
 
-This program automates the process of filling out the mortgage affordability calculator form on the Coventry Building Society website using the provided applicant data. The results for each applicant are printed to the terminal and saved in a new file called `result.json`.
+This program automates the process of filling out the mortgage affordability calculator form on the Coventry Building Society website (https://www.coventrybuildingsociety.co.uk/calculators/AffordabilityCalculator.a spx?ch=broker
+) using the provided applicant data. The results for each applicant are printed to the terminal and saved in a new file called `result.json`.
 
 ## Prerequisites
 
